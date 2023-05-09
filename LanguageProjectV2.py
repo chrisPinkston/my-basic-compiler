@@ -1,6 +1,10 @@
 import itertools
 import re
 
+
+# This code translates a simple language I created into simple python code(with a simplified 
+# print statement and an efficient print sort statment
+
 # Define some regular expressions for token matching
 # THE CODE BELOW REPRESENTS SYMBOLS SYMBOLS AND EXPRESSIONS THAT WOULD BE USED IN PYTHON
 token_exprs = [
